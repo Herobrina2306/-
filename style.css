@@ -1,0 +1,61 @@
+body{
+    background-color: antiquewhite;
+    padding: 0 5% 5% 120px;
+    font-size: larger;
+    width: 80%;
+
+}
+
+h1{
+    color: antiquewhite;
+    font-size: 60px;
+}
+
+
+main{
+    margin:  150px  0 0;
+    background: antiquewhite;
+}
+
+nav{
+    padding: 10px;
+    border: 2px dashed gray ;
+}
+
+footer{
+    margin-top: 30px;
+    padding-top: 10px;
+    border-top: 1px solid black;
+    
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.img{
+    position: absolute;
+    right: 190px;
+    top: 590px;
+    display: none;
+}
+
+.nad{
+    background: url("imag/mSfYWph4qJs.jpg") center -250px / 100%  no-repeat,
+    url("imag/1674515623_catherineasquithgallery-com-p-fon-dlya-prezentatsii-svetlo-korichnevii-30.jpg") 0 340px repeat;
+    
+}
+
+
+.mod{ 
+    padding: 5px;
+    border: 2px solid rgb(155, 110, 51);
+    margin: 10px;
+}
+
+input[type="number"]{
+    width: 35px;
+
+
+}
